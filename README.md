@@ -1,4 +1,4 @@
 # jupyter-notebook-TOC
 jupyter notebook TOC (Table of contents) Generator.
 
-Download the [.ipynb file ](https://github.com/shdeb/jupyter-notebook-TOC/blob/main/sample-notebook.ipynb) or copy the code cell.
+<a href="https://raw.githubusercontent.com/shdeb/jupyter-notebook-TOC/main/sample-notebook.ipynb" download>Download</a> the .ipynb file or copy the [code cell](https://github.com/shdeb/jupyter-notebook-TOC/blob/main/sample-notebook.ipynb).
